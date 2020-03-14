@@ -3,7 +3,6 @@ Area of Square
 # Inputs
 side
 # Output
-Area = side * side
-Area of square
+Area of square = side * side
 # Example usage
 uses: area-of-square-action@v1
