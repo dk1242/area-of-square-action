@@ -1,5 +1,6 @@
 name: 'Area of a Square'
 description: 'Calculate the Area of a Square'
+Color: green
 inputs:
   side:
     description: 'side'
